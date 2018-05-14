@@ -1,2 +1,2 @@
 # To-do-App
-### A simple reminnder app based on realm.io
+### A simple reminder app based on realm.io
